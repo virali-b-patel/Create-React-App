@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "fullName": "Virali Patel",
+    "address": "Kapadwanj",
+    "phoneNumber": "1111111111",
+    "email": "virali@gmail.com"
+  },
+  {
+    "id": 2,  
+    "fullName": "Vijay Patel",
+    "address": "Kapadwanj",
+    "phoneNumber": "2222222222",
+    "email": "vijay@gmail.com"
+  },
+  {
+    "id": 3,
+    "fullName": "Krishna Patel",
+    "address": "Gandhinagar",
+    "phoneNumber": "3333333333",
+    "email": "krishna@gmail.com"
+  },
+  {
+    "id": 4,
+    "fullName": "Het Patel",
+    "address": "Gandhinagar",
+    "phoneNumber": "4444444444",
+    "email": "het@gmail.com"
+  },
+  {
+    "id": 5,
+    "fullName": "Nidhi Patel",
+    "address": "Itali",
+    "phoneNumber": "5555555555",
+    "email": "nidhi @gmail.com"
+  }
+] 
